@@ -5,6 +5,10 @@
 -:> create-react-native-app NomApplication
 
 
+### Installez la dernière version de native navigation :
+
+-:> npm i --save native-navigation
+
 
 
 
