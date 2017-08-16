@@ -10,5 +10,10 @@
 -:> npm i --save native-navigation
 
 
+### Pour Nachos UI : une bibliothèque de composants React Native 
+
+-:> npm install --save nachos-ui
+
+
 
 
