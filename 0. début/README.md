@@ -15,5 +15,6 @@
 -:> npm install --save nachos-ui
 
 
+### Pour Installer la version de react-navigation 
 
-
+-:> npm install --save react-navigation
