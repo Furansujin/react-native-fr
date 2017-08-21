@@ -6,7 +6,7 @@
 
  
 
-### Pour Nachos UI : une bibliothèque de composants React Native 
+### Pour Nachos UI : une bibliothèque de composants React Native (facultatif risque de conflits dans les derniers essaie)
 
 -:> npm install --save nachos-ui
 
